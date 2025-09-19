@@ -2,6 +2,8 @@
 
 The NGSOTI project is dedicated to training the next generation of Security Operation Center (SOC) operators, focusing on the human aspect of cybersecurity. It underscores the significance of providing SOC operators with the necessary skills and open-source tools to address challenges such as detection engineering, incident response, and threat intelligence analysis. Involving key partners such as CIRCL, Restena, Tenzir, and the University of Luxembourg, the project aims to establish a real operational infrastructure for practical training. This initiative integrates academic curricula with industry insights, offering hands-on experience in cyber ranges.
 
+![](https://raw.githubusercontent.com/ngsoti/ngsoti/refs/heads/main/deliverables/D4.1/oss-overview.png)
+
 ## Projects
 
 - [vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup) Vulnerability-Lookup facilitates quick correlation of vulnerabilities from various sources, independent of vulnerability IDs, and streamlines the management of Coordinated Vulnerability Disclosure (CVD).
